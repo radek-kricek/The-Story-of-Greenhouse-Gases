@@ -9,7 +9,7 @@ I used Python to do initial cleaning and transformation of data, SQL to prepare 
 
 
 
-## The questions
+## The Questions
 
 1. Map the evolution of the main GHG (greenhouse gas) emissions overall and in individual countries.
 2. Map the structure of GHG emissions with respect to individual gases and sectors ofo human activity.
@@ -20,7 +20,7 @@ I used Python to do initial cleaning and transformation of data, SQL to prepare 
     
 
 
-## The data
+## The Data
 
 The data for GHG emissions were downloaded as .xlsx files from the Joint Research Centre (EC-JRC)/Netherlands Environmental Assessment Agency (PBL), Emissions Database for Global Atmospheric Research (EDGAR) and IEA data from IEA (2021) World Energy Balances:
 
