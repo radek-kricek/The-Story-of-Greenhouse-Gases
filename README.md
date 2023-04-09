@@ -4,7 +4,7 @@ How do individual countries and sectors contribute to global warming? What are t
 
 I created this project as the final project of the [Praha Coding School](https://prahacoding.cz/) (PCS) online data analytics course. I chose the theme because of my long-time interest in nature conservation and climate change.
 
-I used Python to do initial cleaning and transformation of data, SQL to prepare a number of useful views and Tableu Desktop for visualizations.
+I used **Python** to do initial cleaning and transformation of data, **SQL** to prepare a number of useful views and **Tableu Desktop** for visualizations.
 
 
 
