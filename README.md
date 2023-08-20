@@ -1,5 +1,7 @@
 # The Story of Greenhouse Gases
 
+My oldest Python & SQL project! Would make the code different now but so proud of the dashboard!
+
 How do individual countries and sectors contribute to global warming? What are the trends and is economic growth always coupled with higher emissions? See the results in an interactive [Tableau story](https://public.tableau.com/app/profile/radek.k.ek/viz/TheStoryofGreenhouseGasesAndHowTheyRelatetoEconomicGrowth/TheStoryofGreenhouseGasesAndHowTheyRelatetoEconomicGrowth).
 
 I created this project as the final project of the [Praha Coding School](https://prahacoding.cz/) (PCS) online data analytics course. I chose the theme because of my long-time interest in nature conservation and climate change.
